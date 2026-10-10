@@ -12,3 +12,8 @@ I build tools that solve real problems — document validation, AI agents, and s
 **Certifications**
 - Anthropic / Claude Academy
 - Kaggle — ML practitioner
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/leonardo-viola-dev)
+- [Kaggle](https://www.kaggle.com/lzsecurity)
